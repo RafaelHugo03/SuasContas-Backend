@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "mg1ktHUYUkwHRCspSvfVTqVnKEZcPsKt9/OaM3McyBterld28q28lOTjYDIOMeaOkLtUt1uCHmJPRrYHaI9B7A==",
+  "dgSpecHash": "HD8MvXcY8NfMIorKNhyzaohVFlHv80d5pHdbAWcevl+vZCTZMDDfA3vyiylKi4jsv/si+m0EC39cx59ePejyUA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rafael Evangelista\\Documents\\Projetos\\SuasContas\\src\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael Evangelista\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\Rafael Evangelista\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Rafael Evangelista\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Rafael Evangelista\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Rafael Evangelista\\.nuget\\packages\\netdevpack\\6.1.0\\netdevpack.6.1.0.nupkg.sha512",
+    "C:\\Users\\Rafael Evangelista\\.nuget\\packages\\secureidentity\\1.0.4\\secureidentity.1.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

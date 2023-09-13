@@ -6,4 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.6.0" />
+    <PackageReference Include="MediatR" Version="12.1.1" />
+    <PackageReference Include="NetDevPack" Version="6.1.0" />
+    <PackageReference Include="SecureIdentity" Version="1.0.4" />
+  </ItemGroup>
+
 </Project>
