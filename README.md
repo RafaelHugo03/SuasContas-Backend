@@ -5,7 +5,6 @@
   O sistema centraliza as contas do usuário em um aplicativo mobile, possibilitando uma gestão de suas contas pessoais</p>
 
 <h1>Tecnologias e Padrôes Utilizadas</h1>
-<li>
   <ul>.NET 6</ul>
   <ul>Asp .Net Core</ul>
   <ul>Sql Server</ul>
@@ -14,7 +13,6 @@
   <ul>CQRS</ul>
   <ul>Fluent Validation</ul>
   <ul>Mediator</ul>
-</li>
 
 <h1>Como rodar o projeto localmente:</h1>
 <p>Rodar o comando dotnet restore na raíz do projeto.</p>
