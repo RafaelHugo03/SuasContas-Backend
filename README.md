@@ -17,4 +17,8 @@
 </li>
 
 <h1>Como rodar o projeto localmente:</h1>
-´´´Acessar o arquivo appsettings.json na Pasta Api e alterar a connection string para a sua´´´
+<p>Rodar o comando dotnet restore na raíz do projeto.</p>
+<p></p>Acessar o arquivo appsettings.json na Pasta Api e alterar a connection string para a sua</p>
+<p>Abrir o terminal e rodar o comando cd src/Infra</p>
+<p>Em seguida rodar o comando dotnet ef database update --startup-project ..\Api\Api.csproj</p>
+<p>Seguindo esses passos, você terá o modelo de dados já em sua instância SQL server Local.</p>
