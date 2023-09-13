@@ -17,4 +17,4 @@
 </li>
 
 <h1>Como rodar o projeto localmente:</h1>
-```Acessar o arquivo appsettings.json na Pasta Api e alterar a connection string para a sua```
+´´´Acessar o arquivo appsettings.json na Pasta Api e alterar a connection string para a sua´´´
